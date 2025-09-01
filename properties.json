@@ -6287,6 +6287,10 @@
         "CNVII_c": {
             "type": "nerve",
             "models": "UBERON:0001647"
+        },
+        "vidian_c": {
+            "type": "nerve",
+            "models": "UBERON:0018412"
         }
     },
     "networks": [
