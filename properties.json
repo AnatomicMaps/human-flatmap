@@ -6279,6 +6279,14 @@
         "vagus": {
             "class": "vagus_n",
             "type": "nerve"
+        },
+        "great_pet_c": {
+            "type": "nerve",
+            "models": "ILX:0793702"
+        },
+        "CNVII_c": {
+            "type": "nerve",
+            "models": "UBERON:0001647"
         }
     },
     "networks": [
