@@ -5644,13 +5644,16 @@
             "class": "spinal_55"
         },
         "spinal_56-1": {
-            "class": "spinal_56"
+            "class": "spinal_56",
+            "type": "nerve"
         },
         "spinal_57-1": {
-            "class": "spinal_57"
+            "class": "spinal_57",
+            "type": "nerve"
         },
         "spinal_58-1": {
-            "class": "spinal_58"
+            "class": "spinal_58",
+            "type": "nerve"
         },
         "spinal_6-1": {
             "class": "spinal_6"
@@ -6291,6 +6294,54 @@
         "vidian_c": {
             "type": "nerve",
             "models": "UBERON:0018412"
+        },
+        "lacrimal_zygomatic_c": {
+            "type": "nerve",
+            "models": "ILX:0793711"
+        },
+        "zygomatic_c": {
+            "type": "nerve",
+            "models": "ILX:0793712"
+        },
+        "deep_pet_c": {
+            "type": "nerve",
+            "models": "ILX:0793713"
+        },
+        "lesser_petrosal": {
+            "type": "nerve",
+            "models": "ILX:0793722"
+        },
+        "splanchnic_n-4_c": {
+            "type": "nerve",
+            "models": "UBERON:0001964"
+        },
+        "nasopalatine_c": {
+            "type": "nerve",
+            "models": "UBERON:0008810"
+        },
+        "lacrimal_c": {
+            "type": "nerve",
+            "models": "UBERON:0011096"
+        },
+        "splanchnic_n-2_c": {
+            "type": "nerve",
+            "models": "UBERON:0018680"
+        },
+        "splanchnic_n-3_c": {
+            "type": "nerve",
+            "models": "UBERON:0018681"
+        },
+        "long_ciliary_c": {
+            "type": "nerve",
+            "models": "UBERON:0022301"
+        },
+        "short_ciliary_c": {
+            "type": "nerve",
+            "models": "UBERON:0022302"
+        },
+        "tymp": {
+            "type": "nerve",
+            "models": "UBERON:0036216"
         }
     },
     "networks": [
