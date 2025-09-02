@@ -6342,6 +6342,10 @@
         "tymp": {
             "type": "nerve",
             "models": "UBERON:0036216"
+        },
+        "auriculotemporal_c": {
+            "type": "nerve",
+            "models": "ILX:0793723"
         }
     },
     "networks": [
