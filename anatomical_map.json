@@ -1391,10 +1391,6 @@
         "term": "UBERON:0001650",
         "name": "hypoglossal nerve"
     },
-    "bolser_13": {
-        "term": "ILX:0738313",
-        "name": "Internal branch of superior laryngeal nerve"
-    },
     "bolser_16": {
         "term": "ILX:0738315",
         "name": "Pharyngeal branch of the Hypoglossal nerve"
@@ -1402,10 +1398,6 @@
     "bolser_17": {
         "term": "UBERON:0001884",
         "name": "phrenic nerve"
-    },
-    "bolser_19": {
-        "term": "ILX:0738313",
-        "name": "Rami glomi carotici"
     },
     "bolser_20": {
         "term": "ILX:0789339",
