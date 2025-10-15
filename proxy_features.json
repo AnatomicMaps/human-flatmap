@@ -7,6 +7,13 @@
         ]
     },
     {
+        "feature": "UBERON:0002834",
+        "name": "cervical dorsal root ganglion",
+        "proxies": [
+            "ILX:0789091"
+        ]
+    },
+    {
         "feature": "UBERON:0002850",
         "name": "seventh thoracic spinal ganglion",
         "proxies": [
