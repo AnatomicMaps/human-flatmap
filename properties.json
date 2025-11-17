@@ -2838,9 +2838,10 @@
             "models": "ILX:0770925",
             "name": "Oculomotor nucleus (mba)"
         },
-        "oculomotor_nerve_cn_iii": {
+        "oculomotor_c": {
             "models": "UBERON:0001643",
-            "name": "Oculomotor nerve"
+            "name": "Oculomotor nerve",
+            "type": "nerve"
         },
         "red_nucleus": {
             "models": "UBERON:0001947",
@@ -4362,6 +4363,68 @@
         "auriculotemporal_c": {
             "type": "nerve",
             "models": "ILX:0793723"
+        },
+        "n_84_c": {
+            "type": "nerve"
+        },
+        "n_76_c": {
+            "type": "nerve"
+        },
+        "ardell_5_c": {
+            "type": "nerve"
+        },
+        "n_80_c": {
+            "type": "nerve"
+        },
+        "n_81_c": {
+            "type": "nerve"
+        },
+        "bolser_9_c": {
+            "type": "nerve"
+        },
+        "n_79_c": {
+            "type": "nerve"
+        },
+        "ardell_1_c": {
+            "type": "nerve"
+        },
+        "bolser_113": {
+            "type": "nerve",
+            "models": "ILX:0790205"
+        },
+        "bolser_114": {
+            "type": "nerve"
+        },
+        "SCG-ardell_6_c": {
+            "type": "nerve"
+        },
+        "C3_spinal_n_c": {
+            "type": "nerve",
+            "models": "ILX:0788796"
+        },
+        "bolser_109": {
+            "type": "nerve",
+            "models": "ILX:0738309"
+        },
+        "n_89_c": {
+            "type": "nerve"
+        },
+        "n_77_c": {
+            "type": "nerve"
+        },
+        "n_86_c": {
+            "type": "nerve"
+        },
+        "n_58_c": {
+            "type": "nerve",
+            "models": "ILX:0791071"
+        },
+        "bolser_112": {
+            "type": "nerve",
+            "models": "ILX:0738374"
+        },
+        "ardell_6_c": {
+            "type": "nerve"
         }
     },
     "networks": [
@@ -6435,6 +6498,7 @@
                 },
                 {
                     "id": "bolser_2",
+                    "models": "ILX:0738309",
                     "connects": [
                         "point_28",
                         "respiratory_11-1"
