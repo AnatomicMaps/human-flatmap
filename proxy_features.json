@@ -119,6 +119,27 @@
         ]
     },
     {
+        "feature": "ILX:0785632",
+        "name": "posterior root of first thoracic nerve",
+        "proxies": [
+            "ILX:0790800"
+        ]
+    },
+    {
+        "feature": "ILX:0791802",
+        "name": "posterior root of second thoracic nerve",
+        "proxies": [
+            "ILX:0791275"
+        ]
+    },
+    {
+        "feature": "ILX:0789246",
+        "name": "posterior root of third thoracic nerve",
+        "proxies": [
+            "ILX:0789845"
+        ]
+    },
+    {
         "feature": "ILX:0784605",
         "name": "posterior root of seventh thoracic nerve",
         "proxies": [
@@ -418,14 +439,6 @@
         "proxies": [
             "UBERON:0004538",
             "UBERON:0004539"
-        ]
-    },
-    {
-        "feature": "UBERON:0001184",
-        "name": "renal artery",
-        "proxies": [
-            "UBERON:0001185",
-            "UBERON:0001186"
         ]
     },
     {
@@ -837,10 +850,115 @@
         ]
     },
     {
+        "feature": "UBERON:0002849",
+        "name": "sixth thoracic dorsal root ganglion",
+        "proxies": [
+            "ILX:0791527"
+        ]
+    },
+    {
         "feature": "UBERON:0002860",
         "name": "first sacral dorsal root ganglion",
         "proxies": [
             "ILX:0785106"
+        ]
+    },
+    {
+        "feature": "UBERON:0002441",
+        "name": "cervicothoracic ganglion",
+        "proxies": [
+            "ILX:0794890"
+        ]
+    },
+    {
+        "feature": "ILX:0793617",
+        "name": "T2 sympathetic chain",
+        "proxies": [
+            "ILX:0786012"
+        ]
+    },
+    {
+        "feature": "ILX:0793618",
+        "name": "T3 sympathetic chain",
+        "proxies": [
+            "ILX:0790407"
+        ]
+    },
+    {
+        "feature": "ILX:0793619",
+        "name": "T4 sympathetic chain",
+        "proxies": [
+            "ILX:0785536"
+        ]
+    },
+    {
+        "feature": "ILX:0793335",
+        "name": "T5 sympathetic chain",
+        "proxies": [
+            "ILX:0786912"
+        ]
+    },
+    {
+        "feature": "ILX:0793336",
+        "name": "T6 sympathetic chain",
+        "proxies": [
+            "ILX:0791060"
+        ]
+    },
+    {
+        "feature": "UBERON:0035770",
+        "name": "inferior mesenteric nerve plexus",
+        "proxies": [
+            "UBERON:0005453"
+        ]
+    },
+    {
+        "feature": "UBERON:0007715",
+        "name": "thoracic subsegment of spinal cord",
+        "proxies": [
+            "UBERON:0006468"
+        ]
+    },
+    {
+        "feature": "UBERON:0007716",
+        "name": "lumbar subsegment of spinal cord",
+        "proxies": [
+            "UBERON:0006448"
+        ]
+    },
+    {
+        "feature": "UBERON:0011183",
+        "name": "corpus spongiosum of penis",
+        "proxies": [
+            "UBERON:0001299"
+        ]
+    },
+    {
+        "feature": "UBERON:0001780",
+        "name": "spinal nerve",
+        "proxies": [
+            "ILX:0788282"
+        ]
+    },
+    {
+        "feature": "UBERON:0001279",
+        "name": "portal triad",
+        "proxies": [
+            "UBERON:0002394"
+        ]
+    },
+    {
+        "feature": "ILX:0789655",
+        "name": "S2 sympathetic chain ganglion",
+        "proxies": [
+            "ILX:0792153"
+        ]
+    },
+    {
+        "feature": "ILX:0790394",
+        "name": "S3 sympathetic chain ganglion",
+        "proxies": [
+            "ILX:0787496"
         ]
     }
 ]

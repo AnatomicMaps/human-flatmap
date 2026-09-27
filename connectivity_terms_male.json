@@ -1,38 +1,12 @@
 [
     {
         "id": [
-            "ILX:0738290",
-            []
-        ],
-        "name": "inferior cervical ganglion - middle cervical ganglion interganglionic segment of the sympathetic chain",
-        "aliases": [
-            [
-                "ILX:0739241",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0738291",
-            []
-        ],
-        "name": "t1 - inferior cervical ganglion interganglionic segment of the sympathetic chain",
-        "aliases": [
-            [
-                "UBERON:0002441",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0016578",
             [
                 "UBERON:0006457"
             ]
         ],
-        "name": "",
+        "name": "lamina VII of gray matter of spinal cord / T1 segment of thoracic spinal cord",
         "aliases": [
             [
                 "ILX:0738371",
@@ -137,77 +111,30 @@
     },
     {
         "id": [
-            "ILX:0793082",
+            "UBERON:0002262",
             []
         ],
-        "name": "celiac ganglion- superior mesenteric ganglion complex",
+        "name": "celiac ganglion",
         "aliases": [
-            [
-                "UBERON:0005488",
-                []
-            ],
-            [
-                "UBERON:0002010",
-                []
-            ],
-            [
-                "UBERON:0005479",
-                []
-            ],
-            [
-                "ILX:0793714",
-                []
-            ],
-            [
-                "UBERON:0002262",
-                []
-            ],
-            [
-                "UBERON:0035772",
-                []
-            ],
-            [
-                "ILX:0794730",
-                []
-            ],
-            [
-                "ILX:0794764",
-                []
-            ],
-            [
-                "ILX:0793821",
-                []
-            ],
-            [
-                "ILX:0794732",
-                []
-            ],
-            [
-                "UBERON:0005734",
-                [
-                    "UBERON:0006637"
-                ]
-            ],
-            [
-                "UBERON:0005734",
-                [
-                    "UBERON:0001182"
-                ]
-            ],
-            [
-                "UBERON:0018676",
-                []
-            ],
             [
                 "ILX:0795513",
                 []
             ],
             [
-                "ILX:0795514",
-                []
-            ],
-            [
                 "ILX:0795515",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0005479",
+            []
+        ],
+        "name": "superior mesenteric ganglion",
+        "aliases": [
+            [
+                "ILX:0795514",
                 []
             ],
             [
@@ -269,56 +196,15 @@
     },
     {
         "id": [
-            "UBERON:0005364",
-            [
-                "UBERON:0005363"
-            ]
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "UBERON:0003535",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0016580",
             [
                 "UBERON:0006461"
             ]
         ],
-        "name": "",
+        "name": "lamina IX of gray matter of spinal cord / S2 segment of sacral spinal cord",
         "aliases": [
             [
                 "UBERON:0022278",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0738408",
-            []
-        ],
-        "name": "rhabdosphincter of male",
-        "aliases": [
-            [
-                "UBERON:0004917",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0789947",
-            []
-        ],
-        "name": "sixth thoracic ganglion",
-        "aliases": [
-            [
-                "ILX:0793336",
                 []
             ]
         ]
@@ -338,19 +224,6 @@
     },
     {
         "id": [
-            "ILX:0786228",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0793617",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0006459",
             []
         ],
@@ -358,45 +231,6 @@
         "aliases": [
             [
                 "ILX:0793698",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0786722",
-            []
-        ],
-        "name": "third thoracic ganglion",
-        "aliases": [
-            [
-                "ILX:0793618",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0786272",
-            []
-        ],
-        "name": "fourth thoracic ganglion",
-        "aliases": [
-            [
-                "ILX:0793619",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0786141",
-            []
-        ],
-        "name": "fifth thoracic ganglion",
-        "aliases": [
-            [
-                "ILX:0793335",
                 []
             ]
         ]
@@ -449,53 +283,6 @@
         "aliases": [
             [
                 "ILX:0739304",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0001736",
-            []
-        ],
-        "name": "submandibular gland",
-        "aliases": [
-            [
-                "ILX:0793737",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0001832",
-            []
-        ],
-        "name": "sublingual gland",
-        "aliases": [
-            [
-                "ILX:0793739",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0001723",
-            []
-        ],
-        "name": "tongue",
-        "aliases": [
-            [
-                "UBERON:0003721",
-                []
-            ],
-            [
-                "UBERON:0003729",
-                []
-            ],
-            [
-                "ILX:0793738",
                 []
             ]
         ]
@@ -564,7 +351,7 @@
             "UBERON:0006460",
             []
         ],
-        "name": "",
+        "name": "S1 segment of sacral spinal cord",
         "aliases": [
             [
                 "ILX:0793878",
@@ -610,10 +397,6 @@
         "aliases": [
             [
                 "UBERON:0002366",
-                []
-            ],
-            [
-                "UBERON:0011183",
                 []
             ]
         ]
@@ -693,10 +476,6 @@
             [
                 "ILX:0793816",
                 []
-            ],
-            [
-                "UBERON:0007715",
-                []
             ]
         ]
     },
@@ -705,7 +484,7 @@
             "UBERON:0006467",
             []
         ],
-        "name": "",
+        "name": "T11 segment of thoracic spinal cord",
         "aliases": [
             [
                 "ILX:0793815",
@@ -715,25 +494,12 @@
     },
     {
         "id": [
-            "UBERON:0005453",
-            []
-        ],
-        "name": "inferior mesenteric ganglion",
-        "aliases": [
-            [
-                "UBERON:0035770",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0011776",
+            "UBERON:0004677",
             [
                 "UBERON:0006450"
             ]
         ],
-        "name": "dorsal commissural nucleus/second lumbar spinal cord segment",
+        "name": "Spinal cord gray commissure/second lumbar spinal cord segment",
         "aliases": [
             [
                 "ILX:0793883",
@@ -743,12 +509,12 @@
     },
     {
         "id": [
-            "UBERON:0011776",
+            "UBERON:0004677",
             [
                 "UBERON:0006448"
             ]
         ],
-        "name": "dorsal commissural nucleus/first lumbar spinal cord segment",
+        "name": "Spinal cord gray commissure/first lumbar spinal cord segment",
         "aliases": [
             [
                 "ILX:0793882",
@@ -782,10 +548,6 @@
         "aliases": [
             [
                 "ILX:0793818",
-                []
-            ],
-            [
-                "UBERON:0007716",
                 []
             ]
         ]
@@ -856,19 +618,6 @@
     },
     {
         "id": [
-            "UBERON:0018680",
-            []
-        ],
-        "name": "greater splanchnic nerve",
-        "aliases": [
-            [
-                "UBERON:0018679",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0001964",
             []
         ],
@@ -882,21 +631,13 @@
     },
     {
         "id": [
-            "UBERON:0002113",
+            "UBERON:0002303",
             []
         ],
-        "name": "kidney",
+        "name": "juxtaglomerular apparatus",
         "aliases": [
             [
-                "UBERON:0009773",
-                []
-            ],
-            [
                 "UBERON:0004639",
-                []
-            ],
-            [
-                "UBERON:0002303",
                 []
             ],
             [
@@ -904,35 +645,24 @@
                 []
             ],
             [
-                "UBERON:0001224",
-                []
-            ],
-            [
-                "UBERON:0003517",
-                []
-            ],
-            [
                 "UBERON:0001230",
-                []
-            ],
-            [
-                "UBERON:0005006",
-                []
-            ],
-            [
-                "UBERON:0001225",
                 []
             ],
             [
                 "UBERON:0006853",
                 []
-            ],
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001224",
+            []
+        ],
+        "name": "renal pelvis",
+        "aliases": [
             [
-                "UBERON:0006851",
-                []
-            ],
-            [
-                "ILX:0795056",
+                "UBERON:0005006",
                 []
             ]
         ]
@@ -942,7 +672,7 @@
             "UBERON:0005363",
             []
         ],
-        "name": "",
+        "name": "inferior vagus X ganglion",
         "aliases": [
             [
                 "ILX:0790316",
@@ -966,40 +696,7 @@
                 []
             ],
             [
-                "UBERON:0001279",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002107",
-            []
-        ],
-        "name": "liver",
-        "aliases": [
-            [
-                "UBERON:0001281",
-                []
-            ],
-            [
-                "UBERON:0006729",
-                []
-            ],
-            [
-                "UBERON:0004647",
-                []
-            ],
-            [
-                "UBERON:0001172",
-                []
-            ],
-            [
                 "ILX:0795016",
-                []
-            ],
-            [
-                "ILX:0795010",
                 []
             ],
             [
@@ -1063,39 +760,20 @@
         "name": "vagus nerve",
         "aliases": [
             [
-                "ILX:0790553",
+                "UBERON:0003535",
                 []
-            ],
-            [
-                "ILX:0794142",
-                []
-            ],
-            [
-                "ILX:0793826",
-                []
-            ],
-            [
-                "ILX:0794141",
-                []
-            ],
-            [
-                "ILX:0794506",
-                []
-            ],
-            [
-                "ILX:0793827",
-                []
-            ],
-            [
-                "ILX:0789580",
-                []
-            ],
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0794473",
+            []
+        ],
+        "name": "abdominal branch of vagus nerve",
+        "aliases": [
             [
                 "ILX:0794476",
-                []
-            ],
-            [
-                "ILX:0794853",
                 []
             ]
         ]
@@ -1210,7 +888,7 @@
             []
         ],
         "name": "renal artery",
-        "aliases":[
+        "aliases": [
             [
                 "ILX:0795058",
                 []
@@ -1351,15 +1029,24 @@
     },
     {
         "id": [
+            "UBERON:0001160",
+            []
+        ],
+        "name": "Fundus of stomach",
+        "aliases": [
+            [
+                "UBERON:0005477",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
             "ILX:0793658",
             []
         ],
         "name": "Proximal stomach",
         "aliases": [
-            [
-                "UBERON:0005477",
-                []
-            ],
             [
                 "UBERON:0001161",
                 []
@@ -1394,66 +1081,6 @@
     },
     {
         "id": [
-            "UBERON:0002315",
-            [
-                "UBERON:0006457"
-            ]
-        ],
-        "name": "gray matter of spinal cord/T1 segment of thoracic spinal cord",
-        "aliases": [
-            [
-                "ILX:0797432",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002315",
-            [
-                "UBERON:0006458"
-            ]
-        ],
-        "name": "gray matter of spinal cord/T2 segment of thoracic spinal cord",
-        "aliases": [
-            [
-                "ILX:0797433",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002315",
-            [
-                "UBERON:0006459"
-            ]
-        ],
-        "name": "gray matter of spinal cord/T3 segment of thoracic spinal cord",
-        "aliases": [
-            [
-                "ILX:0797434",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002315",
-            [
-                "UBERON:0006455"
-            ]
-        ],
-        "name": "gray matter of spinal cord/T7 segment of thoracic spinal cord",
-        "aliases": [
-            [
-                "ILX:0796498",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0018680",
             []
         ],
@@ -1474,6 +1101,44 @@
         "aliases": [
             [
                 "ILX:0796952",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0006470",
+            []
+        ],
+        "name": "eight cervical spinal cord segment",
+        "aliases": [
+            [
+                "ILX:0797431",
+                []
+            ],
+            [
+                "UBERON:0016578",
+                [
+                    "UBERON:0006470"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0011379",
+            []
+        ],
+        "name": "male external urether",
+        "aliases": [
+            [
+                "ILX:0793141",
+                [
+                    "UBERON:0000057"
+                ]
+            ],
+            [
+                "UBERON:0004919",
                 []
             ]
         ]
